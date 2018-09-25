@@ -7,3 +7,8 @@ cd rpi-rgb-led-matrix
 make all 
 make build-python 
 make install-python 
+
+* sudo raspi-config enable I2C, close audio
+
+
+* rss scroll example in folder -> bindings -> python -> example
